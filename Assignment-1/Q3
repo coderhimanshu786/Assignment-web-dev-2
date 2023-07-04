@@ -1,0 +1,15 @@
+Ans-3   
+/*
+-> An HTML element is a collection of start and end tags, as well as their attributes and everything in between.
+
+-> An HTML tag (either opening or closing) is used to indicate the beginning or end of an element
+
+-> The terms HTML element and HTML tag are often used interchangeably, implying that a tag is an element and vice versa.
+
+-> The HTML element is held in place by HTML tags. The content is stored in the HTML element.
+
+-> HTML tags begin with and end with >. Whatever is written within an HTML tag is referred to as an HTML element.
+
+-> HTML tags are similar to keywords in that each tag has a distinct meaning.
+
+-> The general content is defined by HTML elements.

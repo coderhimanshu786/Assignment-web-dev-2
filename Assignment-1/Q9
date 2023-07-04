@@ -1,0 +1,28 @@
+/*
+
+HTML tag
+1->  Tags are used to mark up the start of an HTML element and they are usually enclosed in angle brackets. An example of a tag is: <h1>.
+
+Most tags must be opened <h1> and closed </h1> in order to function.
+
+2->  HTML tags are used to hold the HTML element.
+
+3->  HTML tag starts with < and ends with >
+
+4->  HTML tags are almost like keywords where every single tag has unique meaning.
+
+
+
+HTML Attributes
+
+1->  Attributes contain additional pieces of information. Attributes take the form of an opening tag and additional info is placed inside.
+An example of an attribute is:
+<img src="mydog.jpg" alt="A photo of my dog.">
+
+2->  HTML attributes are used to describe the characteristic of an HTML element in detail.
+
+3->  HTML attributes are found only in the starting tag.
+
+4->  HTML attributes specify various additional properties to the existing HTML element.
+
+*/

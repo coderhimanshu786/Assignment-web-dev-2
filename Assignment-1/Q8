@@ -1,0 +1,33 @@
+/*
+Ans-8
+
+    <figure> tag
+    1->   The figure tag is used to semantically organize the content of images, videos, audios or even charts or tables, block of codes in the HTML document.
+
+    2->   <figure> tag is a container tag.
+
+    3->   This tag provides a container for content that is equivalent to a figure or diagram in a book.
+
+    4->   This tag is inline element.
+
+    5->   It makes it easy for the machine to understand the code. Easy to get on search engines.
+
+    6->   The figure tag contains default alignment and styling.
+
+
+    <img> tag
+
+    1->   The image tag is used to add an image to an   HTML page. <img> tag can only insert image.
+
+    2->   <img> tag is a void tag.
+
+    3->   The HTML <img> tag is used for embedding images into an HTML document.
+
+    4->   It is an inline element but when we specify width and height it becomes a block element.
+
+    5->   It is difficult for machines to understand.
+
+    6->   The image tag does not contain any default alignment and styling.
+
+    
+*/

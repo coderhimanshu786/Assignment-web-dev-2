@@ -1,0 +1,22 @@
+/*
+Ans-5->
+
+    1->   HTML5 provides native audio and video support but HTML Does'nt.
+
+    2->   HTML5 supports SVG (Scalable Vector Graphics), Canvas, and other virtual vector graphics but HTML      supports only vector graphics only like Flash, VML, Silverlight.
+
+    3->   HTML5 allows inline MathML and SVG in text but in HTML it allows with restricted use.
+
+    4->   HTML allows users to draw shapes such as circles, triangles, and rectangles but in HTML doesnt allows.
+
+    5->   HTML5 uses web SQL databases, local storage, and application cache for storing data temporarily but   HTML only uses browser cache and cookies to store data temporarily. 
+
+    6->   JavaScript and browser interface run in separate threads but in HTML run in same thread.
+
+    7->   Shorter document type declaration but in HTML longer document type decalaration.
+
+    8->   Shorter character encoding declaration. Uses the UTF-8 character set in HTML Longer character encoding declaration. Uses the ASCII character set.
+
+    9->   HTML5 has improved parsing rules providing enhanced compatibility but HTML based on Standard Generalized Markup Language (SGML).
+
+*/
